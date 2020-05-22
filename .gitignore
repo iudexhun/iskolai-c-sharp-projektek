@@ -1,5 +1,5 @@
-*/bin
-*/obj
-*.suo
+**/bin
+**/obj
+**.suo
 Sajátok
-*/.vs
+**/.vs
