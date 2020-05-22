@@ -1,0 +1,8 @@
+C:\Users\marce\Desktop\c#\4_eUtazas\eutazas\eutazas\bin\Debug\utasadat.txt
+C:\Users\marce\Desktop\c#\4_eUtazas\eutazas\eutazas\bin\Debug\eutazas.exe.config
+C:\Users\marce\Desktop\c#\4_eUtazas\eutazas\eutazas\bin\Debug\eutazas.exe
+C:\Users\marce\Desktop\c#\4_eUtazas\eutazas\eutazas\bin\Debug\eutazas.pdb
+C:\Users\marce\Desktop\c#\4_eUtazas\eutazas\eutazas\obj\Debug\eutazas.csprojAssemblyReference.cache
+C:\Users\marce\Desktop\c#\4_eUtazas\eutazas\eutazas\obj\Debug\eutazas.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\c#\4_eUtazas\eutazas\eutazas\obj\Debug\eutazas.exe
+C:\Users\marce\Desktop\c#\4_eUtazas\eutazas\eutazas\obj\Debug\eutazas.pdb
