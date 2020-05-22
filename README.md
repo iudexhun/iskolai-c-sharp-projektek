@@ -7,4 +7,4 @@ These programs are open source for educational purposes only.
 
 Iskolai c# munkáim.
 
-Ezen programok edukációs célból nyílt forráskódúak.
+Ezen programok kizárólag edukációs célból nyílt forráskódúak.
