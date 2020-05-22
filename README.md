@@ -1,4 +1,10 @@
 # c-sharp
-Most of my c# programs. (Most of them are in hungarian)
+C# school assignments. (In Hungarian!)
 
 These programs are open source for educational purposes only.
+
+---
+
+Iskolai c# munkáim.
+
+Ezen programok edukációs célból nyílt forráskódúak.
