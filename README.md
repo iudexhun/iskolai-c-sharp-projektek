@@ -1,4 +1,4 @@
-# c-sharp
+# C-sharp
 C# school assignments. (In Hungarian!)
 
 These programs are open source for educational purposes only.
