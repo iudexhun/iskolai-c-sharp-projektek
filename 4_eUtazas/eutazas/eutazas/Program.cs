@@ -129,6 +129,7 @@ namespace eutazas
             }
 
             sw.Close();
+            Console.ReadKey();
 
             #endregion
 
